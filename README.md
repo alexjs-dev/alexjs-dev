@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alex
+- 👀 I’m interested in React, Node and JavaScript
+- 🌱 I’m currently learning Graphql
+- 📫 How to reach me: aleksei.dmitri@gmail.com
